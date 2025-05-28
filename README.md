@@ -9,4 +9,4 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 
 ## 🧪 Experimenting
-![Erlang](https://img.shields.io/badge/erlang-%23007ACC.svg?style=for-the-badge&logo=erlang&logoColor=white) 
+![Erlang](https://img.shields.io/badge/erlang-%AA0130.svg?style=for-the-badge&logo=erlang&logoColor=white) 
