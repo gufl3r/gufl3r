@@ -22,7 +22,7 @@ Converts image files to new file format that can be read in python
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gufl3r&repo=socnet-frontend)](https://github.com/gufl3r/socnet-frontend)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gufl3r&repo=socnet-backend)](https://github.com/gufl3r/socnet-backend)
 
-Simple fullstack SOCial NETwork (get it?) project
+Simple fullstack SOCial NETwork project
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gufl3r&repo=football_sim)](https://github.com/gufl3r/football_sim)
 
