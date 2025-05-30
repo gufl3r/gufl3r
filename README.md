@@ -33,5 +33,7 @@ A simple but complete football simulator
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gufl3r&repo=fnad)](https://github.com/gufl3r/fnad)
 
 Meme game I made about my friend, mentioning it here most because the game is cool, it's not well written at all
+
+Also check out [this fork](https://github.com/henriqfranco/fnad)
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gufl3r&langs_count=5)
